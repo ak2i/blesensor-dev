@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ak2i/blesensor-dev#readme",
   "dependencies": {
+    "bleno": "^0.5.0",
     "noble": "^1.9.1"
   }
 }
