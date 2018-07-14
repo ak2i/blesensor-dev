@@ -12,3 +12,4 @@ tmp/
 data/
 .DS_Store
 *.pyc
+package-lock.json

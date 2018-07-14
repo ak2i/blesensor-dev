@@ -1,0 +1,28 @@
+{
+  "name": "blesensor-dev",
+  "version": "0.0.1",
+  "description": "node.js base programs for BLE base sensor system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak2i/blesensor-dev.git"
+  },
+  "keywords": [
+    "BLE",
+    "IoT",
+    "Sensor",
+    "Cloud"
+  ],
+  "author": "ak2i",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ak2i/blesensor-dev/issues"
+  },
+  "homepage": "https://github.com/ak2i/blesensor-dev#readme",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
