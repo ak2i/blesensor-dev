@@ -1,0 +1,14 @@
+*.ini
+node_modules/
+node-red-dir/
+*~
+.~*
+~*
+*.tmp
+*.temp
+*#
+*.log
+tmp/
+data/
+.DS_Store
+*.pyc
